@@ -4,6 +4,11 @@
 
 Ever wondered how technology can streamline your dating life? With Python's powerful libraries like Selenium and BeautifulSoup, I've been able to create a Tinder automation tool that optimizes the swiping process based on personalized preferences.
 
+
+
+https://github.com/shivam188132/100-days-of-code/assets/129589858/e9d83661-63f5-44dc-8630-3a081375bf57
+
+
 ## Key Features
 
 - **Automated Swiping:** Save time and effort by automating the swiping process on Tinder.
