@@ -1,6 +1,13 @@
 # Quiz App
 
-This project implements a quiz application that retrieves questions from an external API, presents them to the user, and evaluates their answers. Below is a summary of the project components:
+This project implements a quiz application that retrieves questions from an external API, presents them to the user, and evaluates their answers. Below is a summary of the project 
+
+
+
+https://github.com/shivam188132/100-days-of-code/assets/129589858/06b785ce-4791-49fc-8ac4-221e942f382b
+
+
+components:
 
 - `main.py`: Orchestrates the quiz application by importing question data, creating question objects, initializing the quiz brain, and setting up the user interface.
 - `data.py`: Contains code to fetch questions from an API using the requests library and parse the JSON response.
