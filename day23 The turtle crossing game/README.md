@@ -2,6 +2,11 @@
 
 This project is a simple game developed using Python's Turtle module. In this game, players navigate a turtle across a busy road while avoiding oncoming cars. The game offers increasing levels of difficulty as players progress.
 
+
+
+https://github.com/shivam188132/100-days-of-code/assets/129589858/5fa2cdd0-c6ab-4b6f-9018-2e9aa1cb6ead
+
+
 ## How to Play
 
 - Use the 'Up' arrow key to move the turtle upward.
