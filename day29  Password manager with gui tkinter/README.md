@@ -2,6 +2,10 @@
 
 As cybersecurity becomes increasingly crucial, I developed this app to generate complex passwords effortlessly. With just a click, it creates strong, unique passwords that enhance your digital security.
 
+
+https://github.com/shivam188132/100-days-of-code/assets/129589858/8226ea01-de60-4ca5-888c-38e5489c8cf8
+
+
 #### Key features:
 
 - 🔑 Automatic generation of strong passwords
