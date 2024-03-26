@@ -24,7 +24,6 @@ screen.onkey(l_paddle.go_down, "s")
 game_is_on = True
 while game_is_on:
     screen.update()
-    time.sleep(0.1)
     ball.move()
 
     #Detect collision with wall
