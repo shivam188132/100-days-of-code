@@ -28,7 +28,7 @@ https://github.com/shivam188132/100-days-of-code/assets/129589858/5fa2cdd0-c6ab-
 ## Usage
 
 1. Clone this repository.
-2. Run the `turtle_crossing_game.py` file using Python.
+2. Run the `main.py` file using Python.
 3. Use the 'Up' arrow key to control the turtle.
 4. Enjoy playing the game!
 
