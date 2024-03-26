@@ -53,7 +53,7 @@ Welcome to Pong Game! This project provides a Python implementation of the class
 
 Contributions to the project are welcome! Whether it's fixing bugs, adding new features, or enhancing the user interface, feel free to fork the repository, make your changes, and submit a pull request.
 
-##Contact
+## Contact
 For any inquiries or feedback, feel free to contact me at shivamkumar819991@gmail.com.
 
 
