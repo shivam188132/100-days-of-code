@@ -1,4 +1,4 @@
-### 🔐 Excited to announce my latest project: the Password Generator app!
+# 🔐 Excited to announce my latest project: the Password Generator app!
 
 As cybersecurity becomes increasingly crucial, I developed this app to generate complex passwords effortlessly. With just a click, it creates strong, unique passwords that enhance your digital security.
 
