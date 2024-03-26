@@ -2,6 +2,10 @@
 
 Welcome to Pong Game! This project provides a Python implementation of the classic arcade-style game Pong, utilizing the Turtle module for graphics. Players control paddles to hit a ball back and forth across the screen, aiming to prevent the ball from passing their paddle while trying to send it past their opponent's paddle.
 
+
+https://github.com/shivam188132/100-days-of-code/assets/129589858/5ccd1c33-db24-4f2c-907a-4c35c6806e31
+
+
 ## Features
 
 - Realistic Physics: The game incorporates basic physics principles to simulate ball movement, bouncing off walls, and interacting with paddles.
