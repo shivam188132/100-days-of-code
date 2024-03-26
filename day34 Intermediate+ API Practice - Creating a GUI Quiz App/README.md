@@ -29,6 +29,6 @@ This project implements a quiz application that retrieves questions from an exte
 
 For questions or feedback regarding this project, feel free to contact:
 
-- [Shivam Kumar](shivamkumar819991@gmail.com) - Project Developer
+- [shivamkumar819991@gmail.com]() - Project Developer
 
 This documentation provides an overview of the project's structure, features, dependencies, acknowledgments, and contact information, facilitating understanding and collaboration for developers interested in the project.
