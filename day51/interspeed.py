@@ -10,8 +10,8 @@ class InternetSpeedTwitterBot:
         self.Promise_up = 30
         self.Promise_down = 30
 
-        self.Twitter_user_id = "shivam_bot1"
-        self.Twitter_pass = "RWervg%$#(8345<$&12vb"
+        self.Twitter_user_id = "xxxx"
+        self.Twitter_pass = "xxxxx"
 
         self.driver = webdriver.Chrome()
 
